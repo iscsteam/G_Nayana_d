@@ -1,0 +1,11 @@
+azure:
+  storage_connection_string: "connection_string"
+  container_name: "inference"
+
+cors:
+  allow_origins:
+    - "https://retinopathy-dashboard.vercel.app"
+    - "https://gnayana-frontend.azurewebsites.net"
+
+model:
+  best_model_path: "effinet_model.pth"

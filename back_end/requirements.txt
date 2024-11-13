@@ -1,0 +1,12 @@
+fastapi
+pydantic
+torch
+torchvision
+Pillow
+numpy
+opencv-python
+requests
+azure-storage-blob
+uvicorn
+python-multipart
+pyyaml
